@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color:red
+}
+
+.header{
+    background-color: black;
+    width: 100%;
+    height: 10%;
+}
+
+
+.middle{
+    background-color: brown;
+    height: 70%;
+    width: 100%;
+}
+
+
+.footer{
+    background-color: yellow;
+    height: 20%;
+    width: 100%;
+}
